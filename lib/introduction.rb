@@ -12,7 +12,7 @@ def introduction_with_language(name, language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}.\n"
 end
 
-#mehtod that will output "Hi my name is #{name} and I am learning to prorgram in #{language}.\n" 
+#mehtod that will output "Hi my name is #{name} and I am learning to prorgram in #{language}.\n"
 # where language will default to "Ruby"
 def introduction_with_language_optional(name, language="Ruby")
   puts "Hi, my name is #{name} and I am learning to program in #{language}.\n"
